@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - Forcas Cruzadas - TARS Game Studio</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; padding: 0 20px; }
+        h1, h2 { color: #333; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+<h1>Política de Privacidade</h1>
+<p><strong>Última atualização:</strong> 24/08/2025</p>
+
+<p>Este jogo, desenvolvido por <strong>TARS Game Studio</strong>, respeita a sua privacidade. Não coletamos informações pessoais que identifiquem o usuário, como nome, e-mail ou senha.</p>
+
+<h2>Dados coletados</h2>
+<ul>
+<li><strong>Google AdMob:</strong> para exibir anúncios dentro do jogo.</li>
+<li><strong>Google Firebase / GA4:</strong> para coletar estatísticas de uso e eventos do jogo (como pontuação, número de vitórias, tempo de sessão e desempenho do app).</li>
+</ul>
+
+<h2>Finalidade do uso</h2>
+<ul>
+<li>Exibir anúncios relevantes.</li>
+<li>Melhorar a experiência do usuário.</li>
+<li>Analisar métricas de uso e engajamento.</li>
+<li>Garantir estabilidade e desempenho do aplicativo.</li>
+</ul>
+
+<h2>Compartilhamento de dados</h2>
+<p>Os dados podem ser compartilhados com os serviços do Google listados acima, de forma anônima e agregada. Não compartilhamos dados com terceiros além desses serviços.</p>
+
+<h2>Segurança</h2>
+<p>Todos os dados são transmitidos de forma segura (criptografia via HTTPS/TLS).</p>
+
+<h2>Direitos do usuário</h2>
+<p>Como não coletamos dados pessoais identificáveis, não é aplicável a solicitação de exclusão individual de dados.</p>
+
+<h2>Contato</h2>
+<p>Se tiver dúvidas, entre em contato pelo e-mail: <strong>tars.gamestudio@gmail.com</strong></p>
+
+</body>
+</html>
